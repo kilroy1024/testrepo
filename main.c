@@ -2,6 +2,6 @@
 
 int main(int argc, const char *argv[])
 {
-	printf("hello test repo\n");
+	printf("hello test repo ver.2 \n");
 	return 0;
 }
